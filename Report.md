@@ -1,4 +1,4 @@
-Name:
+Name: Eun Jin Kim
 
 EID:
 

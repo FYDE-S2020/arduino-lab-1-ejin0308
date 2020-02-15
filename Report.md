@@ -61,13 +61,13 @@ Team Number:Team 10
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](img/Screen Shot 2020-02-13 at 6.33.54 PM.png)
+![Put path to your image here ->](img/pa1.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](img/Screen Shot 2020-02-13 at 6.49.05 PM.png)
+![Put path to your image here ->](img/pa2.png)
 
 Procedure B, UART:
-![Put path to your image here ->](img/Screen Shot 2020-02-13 at 7.12.28 PM.png)
+![Put path to your image here ->](img/pb1.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](img/Screen Shot 2020-02-13 at 7.26.26 PM.png)
+![Put path to your image here ->](img/pb2.png)

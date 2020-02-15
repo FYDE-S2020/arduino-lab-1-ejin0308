@@ -2,7 +2,7 @@ Name: Eun Jin Kim
 
 EID: ek8582
 
-Team Number:
+Team Number:Team 10
 
 ## Questions
 
@@ -61,13 +61,13 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 6.33.54 PM.png)
+![Put path to your image here ->](/Users/jenna/Documents/Spring2020/EE 109K/arduino-lab-1-ejin0308/img/Screen Shot 2020-02-13 at 6.33.54 PM.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 6.49.05 PM.png)
+![Put path to your image here ->](/Users/jenna/Documents/Spring2020/EE 109K/arduino-lab-1-ejin0308/img/Screen Shot 2020-02-13 at 6.49.05 PM.png)
 
 Procedure B, UART:
-![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.12.28 PM.png)
+![Put path to your image here ->](/Users/jenna/Documents/Spring2020/EE 109K/arduino-lab-1-ejin0308/img/Screen Shot 2020-02-13 at 7.12.28 PM.png)
 
 Procedure B, SPI:
-![Put path to your image here ->]()
+![Put path to your image here ->](/Users/jenna/Documents/Spring2020/EE 109K/arduino-lab-1-ejin0308/img/Screen Shot 2020-02-13 at 7.26.26 PM.png)

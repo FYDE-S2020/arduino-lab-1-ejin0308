@@ -67,7 +67,7 @@ Procedure A, step 4:
 ![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 6.49.05 PM.png)
 
 Procedure B, UART:
-![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.12.28 PM.png/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.12.28 PM.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.26.26 PM.png/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.26.26 PM.png)

@@ -32,11 +32,11 @@ Team Number:
 
 7. Profile of UART: Sent X bytes in Y time 
 
-    your answer here
+    3 bytes 0.9328 ms
 
 8. Profile of SPI: Sent X bytes in Y time
 
-    your answer here
+    3 bytes 0.32 ms
 
 9. Why is SPI so much faster than UART?
 
@@ -61,13 +61,13 @@ Team Number:
 ## Screenshots
 
 Procedure A, step 1:
-![Put path to your image here ->](Screen Shot 2020-02-13 at 6.33.54 PM/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 6.33.54 PM.png/placeholder.png)
 
 Procedure A, step 4:
-![Put path to your image here ->](Screen Shot 2020-02-13 at 6.49.05 PM/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 6.49.05 PM.png/placeholder.png)
 
 Procedure B, UART:
-![Put path to your image here ->](Screen Shot 2020-02-13 at 7.15.15 PM/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.12.28 PM.png/placeholder.png)
 
 Procedure B, SPI:
-![Put path to your image here ->](Screen Shot 2020-02-13 at 7.26.26 PM/placeholder.png)
+![Put path to your image here ->](/Users/jenna/Downloads/Screen Shot 2020-02-13 at 7.26.26 PM.png/placeholder.png)
